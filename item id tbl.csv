@@ -1,0 +1,202 @@
+item_id,item_name,purchasable
+1001,Boots,TRUE
+1004,Faerie Charm,TRUE
+1006,Rejuvenation Bead,TRUE
+1011,Giant's Belt,TRUE
+1018,Cloak of Agility,TRUE
+1026,Blasting Wand,TRUE
+1027,Sapphire Crystal,TRUE
+1028,Ruby Crystal,TRUE
+1029,Cloth Armor,TRUE
+1031,Chain Vest,TRUE
+1033,Null-Magic Mantle,TRUE
+1035,Emberknife,TRUE
+1036,Long Sword,TRUE
+1037,Pickaxe,TRUE
+1038,B. F. Sword,TRUE
+1039,Hailblade,TRUE
+1042,Dagger,TRUE
+1043,Recurve Bow,TRUE
+1052,Amplifying Tome,TRUE
+1053,Vampiric Scepter,TRUE
+1054,Doran's Shield,TRUE
+1055,Doran's Blade,TRUE
+1056,Doran's Ring,TRUE
+1057,Negatron Cloak,TRUE
+1058,Needlessly Large Rod,TRUE
+1082,Dark Seal,TRUE
+1083,Cull,TRUE
+2003,Health Potion,TRUE
+2010,Total Biscuit of Everlasting Will,FALSE
+2015,Kircheis Shard,TRUE
+2031,Refillable Potion,TRUE
+2033,Corrupting Potion,TRUE
+2051,Guardian's Horn,TRUE
+2052,Poro-Snax,FALSE
+2055,Control Ward,TRUE
+2065,Shurelya's Battlesong,TRUE
+2138,Elixir of Iron,TRUE
+2139,Elixir of Sorcery,TRUE
+2140,Elixir of Wrath,TRUE
+2403,Minion Dematerializer,FALSE
+2419,Commencing Stopwatch,FALSE
+2420,Stopwatch,TRUE
+2421,Broken Stopwatch,TRUE
+2422,Slightly Magical Footwear,FALSE
+2423,Perfectly Timed Stopwatch,FALSE
+2424,Broken Stopwatch,FALSE
+3001,Abyssal Mask,TRUE
+3003,Archangel's Staff,TRUE
+3004,Manamune,TRUE
+3006,Berserker's Greaves,TRUE
+3009,Boots of Swiftness,TRUE
+3011,Chemtech Putrifier,TRUE
+3020,Sorcerer's Shoes,TRUE
+3024,Glacial Buckler,TRUE
+3026,Guardian Angel,TRUE
+3031,Infinity Edge,TRUE
+3033,Mortal Reminder,TRUE
+3035,Last Whisper,TRUE
+3036,Lord Dominik's Regards,TRUE
+3040,Seraph's Embrace,FALSE
+3041,Mejai's Soulstealer,TRUE
+3042,Muramana,FALSE
+3043,Muramana,FALSE
+3044,Phage,TRUE
+3046,Phantom Dancer,TRUE
+3047,Plated Steelcaps,TRUE
+3048,Seraph's Embrace,FALSE
+3050,Zeke's Convergence,TRUE
+3051,Hearthbound Axe,TRUE
+3053,Sterak's Gage,TRUE
+3057,Sheen,TRUE
+3065,Spirit Visage,TRUE
+3066,Winged Moonplate,TRUE
+3067,Kindlegem,TRUE
+3068,Sunfire Aegis,TRUE
+3070,Tear of the Goddess,TRUE
+3071,Black Cleaver,TRUE
+3072,Bloodthirster,TRUE
+3074,Ravenous Hydra,TRUE
+3075,Thornmail,TRUE
+3076,Bramble Vest,TRUE
+3077,Tiamat,TRUE
+3078,Trinity Force,TRUE
+3082,Warden's Mail,TRUE
+3083,Warmog's Armor,TRUE
+3085,Runaan's Hurricane,TRUE
+3086,Zeal,TRUE
+3089,Rabadon's Deathcap,TRUE
+3091,Wit's End,TRUE
+3094,Rapid Firecannon,TRUE
+3095,Stormrazor,TRUE
+3100,Lich Bane,TRUE
+3102,Banshee's Veil,TRUE
+3105,Aegis of the Legion,TRUE
+3107,Redemption,TRUE
+3108,Fiendish Codex,TRUE
+3109,Knight's Vow,TRUE
+3110,Frozen Heart,TRUE
+3111,Mercury's Treads,TRUE
+3112,Guardian's Orb,TRUE
+3113,Aether Wisp,TRUE
+3114,Forbidden Idol,TRUE
+3115,Nashor's Tooth,TRUE
+3116,Rylai's Crystal Scepter,TRUE
+3117,Mobility Boots,TRUE
+3123,Executioner's Calling,TRUE
+3124,Guinsoo's Rageblade,TRUE
+3133,Caulfield's Warhammer,TRUE
+3134,Serrated Dirk,TRUE
+3135,Void Staff,TRUE
+3139,Mercurial Scimitar,TRUE
+3140,Quicksilver Sash,TRUE
+3142,Youmuu's Ghostblade,TRUE
+3143,Randuin's Omen,TRUE
+3145,Hextech Alternator,TRUE
+3152,Hextech Rocketbelt,TRUE
+3153,Blade of The Ruined King,TRUE
+3155,Hexdrinker,TRUE
+3156,Maw of Malmortius,TRUE
+3157,Zhonya's Hourglass,TRUE
+3158,Ionian Boots of Lucidity,TRUE
+3165,Morellonomicon,TRUE
+3177,Guardian's Blade,TRUE
+3179,Umbral Glaive,TRUE
+3181,Sanguine Blade,TRUE
+3184,Guardian's Hammer,TRUE
+3190,Locket of the Iron Solari,TRUE
+3191,Seeker's Armguard,TRUE
+3193,Gargoyle Stoneplate,TRUE
+3211,Spectre's Cowl,TRUE
+3222,Mikael's Blessing,TRUE
+3330,Scarecrow Effigy,TRUE
+3340,Stealth Ward,TRUE
+3363,Farsight Alteration,TRUE
+3364,Oracle Lens,TRUE
+3400,Your Cut,FALSE
+3504,Ardent Censer,TRUE
+3508,Essence Reaver,TRUE
+3513,Eye of the Herald,FALSE
+3599,Kalista's Black Spear,TRUE
+3600,Kalista's Black Spear,TRUE
+3742,Dead Man's Plate,TRUE
+3748,Titanic Hydra,TRUE
+3801,Crystalline Bracer,TRUE
+3802,Lost Chapter,TRUE
+3814,Edge of Night,TRUE
+3850,Spellthief's Edge,TRUE
+3851,Frostfang,FALSE
+3853,Shard of True Ice,FALSE
+3854,Steel Shoulderguards,TRUE
+3855,Runesteel Spaulders,FALSE
+3857,Pauldrons of Whiterock,FALSE
+3858,Relic Shield,TRUE
+3859,Targon's Buckler,FALSE
+3860,Bulwark of the Mountain,FALSE
+3862,Spectral Sickle,TRUE
+3863,Harrowing Crescent,FALSE
+3864,Black Mist Scythe,FALSE
+3916,Oblivion Orb,TRUE
+4005,Imperial Mandate,TRUE
+4401,Force of Nature,TRUE
+4403,The Golden Spatula,TRUE
+4628,Horizon Focus,TRUE
+4629,Cosmic Drive,TRUE
+4630,Blighting Jewel,TRUE
+4632,Verdant Barrier,TRUE
+4633,Riftmaker,TRUE
+4635,Leeching Leer,TRUE
+4636,Night Harvester,TRUE
+4637,Demonic Embrace,TRUE
+4638,Watchful Wardstone,FALSE
+4641,Stirring Wardstone,TRUE
+4642,Bandleglass Mirror,TRUE
+4643,Vigilant Wardstone,TRUE
+6029,Ironspike Whip,TRUE
+6035,Silvermere Dawn,TRUE
+6333,Death's Dance,TRUE
+6609,Chempunk Chainsword,TRUE
+6616,Staff of Flowing Water,TRUE
+6617,Moonstone Renewer,TRUE
+6630,Goredrinker,TRUE
+6631,Stridebreaker,TRUE
+6632,Divine Sunderer,TRUE
+6653,Liandry's Anguish,TRUE
+6655,Luden's Tempest,TRUE
+6656,Everfrost,TRUE
+6660,Bami's Cinder,TRUE
+6662,Frostfire Gauntlet,TRUE
+6664,Turbo Chemtank,TRUE
+6670,Noonquiver,TRUE
+6671,Galeforce,TRUE
+6672,Kraken Slayer,TRUE
+6673,Immortal Shieldbow,TRUE
+6675,Navori Quickblades,TRUE
+6676,The Collector,TRUE
+6677,Rageknife,TRUE
+6691,Duskblade of Draktharr,TRUE
+6692,Eclipse,TRUE
+6693,Prowler's Claw,TRUE
+6694,Serylda's Grudge,TRUE
+6695,Serpent's Fang,TRUE
